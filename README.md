@@ -1,3 +1,5 @@
+This project is moved to https://github.com/CodeChain-io/codechain-dashboard
+
 # CodeChain Agent [![Build Status](https://travis-ci.org/CodeChain-io/codechain-agent.svg?branch=master)](https://travis-ci.org/CodeChain-io/codechain-agent)
 
 ## Requirements
